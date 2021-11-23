@@ -1,1 +1,1 @@
-console.alert("siema")
+alert("test")
