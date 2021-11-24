@@ -1,0 +1,19 @@
+{
+  "name": "testowy-pakiet",
+  "version": "1.0.0",
+  "description": "nauka oraz testy pakietow npm oraz node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'"
+  },
+  "keywords": [
+    "try",
+    "learn"
+  ],
+  "author": "Marek Sikora",
+  "license": "ISC"
+}
